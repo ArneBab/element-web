@@ -2824,6 +2824,7 @@
             "composer_heading": "Szerkesztő",
             "default_timezone": "Böngésző alapértelmezése (%(timezone)s)",
             "dialog_title": "<strong>Beállítások:</strong> Beállítások",
+            "enable_content_protection": "Tartalomvédelem engedélyezése",
             "enable_hardware_acceleration": "Hardveres gyorsítás engedélyezése",
             "enable_tray_icon": "Tálcaikon megjelenítése és az ablak minimalizálása bezáráskor",
             "keyboard_heading": "Gyorsbillentyűk",

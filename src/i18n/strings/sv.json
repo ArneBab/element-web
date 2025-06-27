@@ -157,6 +157,7 @@
         "view_message": "Visa meddelande",
         "view_source": "Visa källa",
         "yes": "Ja",
+        "yes_dismiss": "Ja, avvisa",
         "zoom_in": "Zooma in",
         "zoom_out": "Zooma ut"
     },
@@ -967,6 +968,7 @@
         "setup_secure_backup": {
             "explainer": "Säkerhetskopiera dina nycklar innan du loggar ut för att undvika att du blir av med dem."
         },
+        "turn_on_key_storage": "Slå på nyckellagring",
         "udd": {
             "interactive_verification_button": "Verifiera interaktivt med emoji",
             "other_ask_verify_text": "Be den här användaren att verifiera sin session, eller verifiera den manuellt nedan.",
@@ -2142,9 +2144,14 @@
             "one": "Visa %(count)s till"
         },
         "show_previews": "Visa förhandsgranskningar av meddelanden",
+        "sort": "Sortera",
         "sort_by": "Sortera efter",
         "sort_by_activity": "Aktivitet",
         "sort_by_alphabet": "A-Ö",
+        "sort_type": {
+            "activity": "Aktivitet",
+            "atoz": "A-Ö"
+        },
         "sort_unread_first": "Visa rum med olästa meddelanden först",
         "space_menu": {
             "home": "Utrymmeshem",
@@ -2431,6 +2438,10 @@
         "empty_timeline": "Du är ikapp.",
         "recent_changes_heading": "Nyliga ändringar har inte mottagits än",
         "title": "Servern svarar inte"
+    },
+    "service_worker_error": {
+        "description": "%(brand)s kräver en service worker för att läsa in autentiserade media från Matrix-innehållsförråd. Detta stöds inte av din webbläsare, så du kan uppleva att media misslyckas att laddas.",
+        "title": "Misslyckades att ladda service worker"
     },
     "seshat": {
         "error_initialising": "Initialisering av meddelandesök misslyckades, kolla <a>dina inställningar</a> för mer information",

@@ -2880,6 +2880,7 @@
             "composer_heading": "Písanie správ",
             "default_timezone": "Predvolená (%(timezone)s) prehliadača",
             "dialog_title": "<strong>Nastavenia:</strong> Predvoľby",
+            "enable_content_protection": "Povoliť ochranu obsahu",
             "enable_hardware_acceleration": "Povoliť hardvérovú akceleráciu",
             "enable_tray_icon": "Zobraziť ikonu na lište a pri zatvorení minimalizovať okno na ňu",
             "keyboard_heading": "Klávesové skratky",

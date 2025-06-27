@@ -2844,6 +2844,7 @@
             "composer_heading": "Sõnumite kirjutamine",
             "default_timezone": "Brauseri vaikimisi ajavöönd (%(timezone)s)",
             "dialog_title": "<strong>Seadistused:</strong> Eelistused",
+            "enable_content_protection": "Kasuta sisu kaitset",
             "enable_hardware_acceleration": "Kasuta riistvaralist kiirendust",
             "enable_tray_icon": "Näita süsteemisalve ikooni ja Element'i akna sulgemisel minimeeri ta salve",
             "keyboard_heading": "Kiirklahvid",

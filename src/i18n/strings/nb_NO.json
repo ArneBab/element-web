@@ -2843,6 +2843,7 @@
             "composer_heading": "Komposør",
             "default_timezone": "Nettleserens standard (%(timezone)s)",
             "dialog_title": "<strong>Innstillinger:</strong> Preferanser",
+            "enable_content_protection": "Aktiver innholdsbeskyttelse",
             "enable_hardware_acceleration": "Aktiver maskinvareakselerasjon",
             "enable_tray_icon": "Vis skuffikonet og minimer vinduet til det når det lukkes",
             "keyboard_heading": "Tastatursnarveier",

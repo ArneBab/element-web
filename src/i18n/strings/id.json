@@ -2836,6 +2836,7 @@
             "composer_heading": "Komposer",
             "default_timezone": "Bawaan peramban (%(timezone)s)",
             "dialog_title": "<strong>Pengaturan:</strong> Preferensi",
+            "enable_content_protection": "Aktifkan perlindungan konten",
             "enable_hardware_acceleration": "Aktifkan akselerasi perangkat keras",
             "enable_tray_icon": "Tampilkan ikon baki dan minimalkan window ke ikonnya jika ditutup",
             "keyboard_heading": "Pintasan keyboard",
